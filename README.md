@@ -1,3 +1,6 @@
+# 2023/07/19 
+　　-newly compiled with DLT and Additional Plugins with Qt 6.3.2, Visual Studio 2019 Build Tools
+　　-ninja.exe is added
 # Diagnostic Log and Trace Viewer
 
 ## Overview
